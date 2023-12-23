@@ -25,3 +25,5 @@ To use the Polygon.io API, you need to obtain an API key. Replace 'Your_Polygon_
 3. Run `node todayPrice.js` and `node yesterdayPrice.js` to make database.
 4. Run `npx live-server` to start the development server.
 5. Open your web browser and navigate to the provided URL (usually http://127.0.0.1:8080/).
+
+![StockTracker-Web-PolygonAPI Screenshot](./Stock%20Tracker%20Website.png)
