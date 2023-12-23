@@ -1,0 +1,18 @@
+{
+  "AAPL": {
+    "todayOpen": 196.1,
+    "todayClose": 194.68
+  },
+  "MSFT": {
+    "todayOpen": 372.56,
+    "todayClose": 373.54
+  },
+  "AMZN": {
+    "todayOpen": 153.3,
+    "todayClose": 153.84
+  },
+  "META": {
+    "todayOpen": 352.98,
+    "todayClose": 354.09
+  }
+}
