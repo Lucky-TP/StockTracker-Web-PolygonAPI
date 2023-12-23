@@ -7,7 +7,8 @@ I created this project to learn the basics of fetching data from an API, dynamic
 ## Features
 - Dynamically generates stock cards displaying company logos, names, symbols, prices, and price changes.
 - Fetches stock data from the Polygon.io API.
-- Supports multiple stocks with data stored in JSON format, so it only has to feches only once a day.
+- Supports multiple stocks with data stored in JSON format.
+- Feches only once a day to update prices. 
 
 ## Project Structure
 - `index.html`: Main HTML file.
